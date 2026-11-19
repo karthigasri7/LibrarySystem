@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040175
+# Name:karthiga sri
+# Date:19/11/2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/456c8d5d-db1e-4bd3-aa2e-616c3d4a47d8" />
 
 
 
@@ -58,6 +59,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1547" height="920" alt="image" src="https://github.com/user-attachments/assets/48acecca-2ffc-42c4-aa93-96264469f074" />
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1600" height="901" alt="image" src="https://github.com/user-attachments/assets/107ae142-56dd-4204-a7c9-57919c544b67" />
 
 
 
@@ -79,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/636471e2-114c-4ac8-9ba4-537bf0e18db1" />
 
 
 
@@ -97,6 +102,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/5606858e-f449-40a5-a94d-c1d8c9dfbe1e" />
 
 
 
@@ -118,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/dd684d77-9075-4e1d-8104-040ae63430df" />
 
 
 
